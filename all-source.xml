@@ -1,0 +1,515 @@
+﻿<?xml version="1.0"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+
+<photoCollection mode="publish">
+<display>
+<style cellBorderColor="#121212" cellRolloverColor="#343434" cssVersion="139193480777545875" idplateEnabled="false" css="&#xA;				#previewFull {background-color: #666666 !important; width: 1124px !important; color: inherit}&#xA;				#liveUpdateContactInfo {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.borderRightDotted {border-right: 1px dotted #121212 !important;}&#xA;				.logo {display: none !important;}&#xA;				#liveUpdateCollectionDescription {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.detailNav, .detailLinks, #detailCaption, #detailTitle {color: #059af3 !important; background-color: inherit;}&#xA;				.emptyThumbnail {background-color: #000000 !important; color: inherit;}&#xA;				.thumbnail {background-color: #000000 !important; color: inherit;}&#xA;				.previewFullImage {height: 800px !important; width: 1124px !important;}&#xA;				#stage2 {width: 1129px !important;}&#xA;				.itemNumber {display: inherit !important; color: #161616 !important; background-color: inherit;}&#xA;				#content {background-color: #000000 !important; color: inherit;}&#xA;				.borderTopLeft {border-top: 1px solid #121212 !important; border-left: 1px solid #121212 !important;}&#xA;				#stage {width: 1129px !important;}&#xA;				.caption {color: #b3b3b3 !important; background-color: inherit;}&#xA;				#wrapper2 {width: 1129px !important;}&#xA;				.borderBottomRight {border-right: 1px solid #121212 !important; border-bottom: 1px solid #121212 !important;}&#xA;				#wrapper {width: 1129px !important;}&#xA;				#liveUpdateCollectionTitle {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.paginationLinks, .pagination, #liveUpdatePagination {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.selectedThumbnail, .thumbnail:hover {background-color: #343434 !important; color: inherit;}&#xA;				#liveUpdateSiteTitle {color: #b3b3b3 !important; background-color: inherit;}&#xA;				#thumbnailName {color: #059af3 !important; background-color: inherit;}&#xA;				#largeName {color: #059af3 !important; background-color: inherit; margin-top: 10px; margin-left: 7px; margin-right: 7px;}&#xA;				.borderBottom {border-bottom: 1px solid #121212 !important;}&#xA;				.borderRight {border-right: 1px solid #121212 !important;}&#xA;				body {background-color: #000000 !important; color: inherit;}&#xA;			" identityPlateAbsolutePath="" numCols="7" numRows="3" homePage="index.html" imageBase="content" cellColor="#000000">
+</style>
+<metadata>
+<creationDate formatted="Sun Feb 09 2014 00:33:27 GMT-0800"></creationDate>
+<groupTitle value=""></groupTitle>
+<contactInfo value="" link=""></contactInfo>
+<siteTitle value="Comet Design, Inc. CNC Machining"></siteTitle>
+<groupDescription value=""></groupDescription>
+</metadata>
+<localization>
+<item id="AdobeLightroomWebSite" localized="http://labs.adobe.com/technologies/lightroom/"></item>
+<item id="AdobeLightroomBeta" localized="Adobe Lightroom Beta"></item>
+<item id="Fullsize" localized="Fullsize"></item>
+<item id="Next" localized="Next"></item>
+<item id="Previous" localized="Previous"></item>
+<item id="EmptyGallery" localized="There are no images in this gallery."></item>
+<item id="more" localized="more"></item>
+<item id="Index" localized="Index"></item>
+</localization>
+</display>
+<head>
+<siteTitle></siteTitle>
+<collectionName></collectionName>
+<collectionTitle></collectionTitle>
+<collectionDescription></collectionDescription>
+<contactInfo></contactInfo>
+<slideDuration></slideDuration>
+<sizes>
+<size name="large" height="800" width="800"></size>
+<size name="thumb" height="129" width="129"></size>
+</sizes>
+</head>
+<samples totalGallerySize="42" firstSampleIndex="1">
+<img orientation="BC" imageID="0_1391934807778" filename="_5253569046" tipname="%_tempFileName_5253569046%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>Fairing-1</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_5253569046.jpg" height="489" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_5253569046.jpg" height="78" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="1_1391934807779" filename="_9128539523" tipname="%_tempFileName_9128539523%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>Fairing-2</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_9128539523.jpg" height="494" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_9128539523.jpg" height="79" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="2_1391934807781" filename="_9004617685" tipname="%_tempFileName_9004617685%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>Fairing-3</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_9004617685.jpg" height="512" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_9004617685.jpg" height="82" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="3_1391934807782" filename="_3302576337" tipname="%_tempFileName_3302576337%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>check_tool</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_3302576337.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_3302576337.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="4_1391934807783" filename="_0841698137" tipname="%_tempFileName_0841698137%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>biotech_design</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_0841698137.jpg" height="800" width="367" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_0841698137.jpg" height="129" width="59" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="5_1391934807785" filename="_3619040324" tipname="%_tempFileName_3619040324%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>bitotech_handpiece_i</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_3619040324.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_3619040324.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="6_1391934807786" filename="_0339499204" tipname="%_tempFileName_0339499204%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>bitotech_handpiece_o</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_0339499204.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_0339499204.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="7_1391934807787" filename="_3293763706" tipname="%_tempFileName_3293763706%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>bitotech_handpieces</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_3293763706.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_3293763706.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="8_1391934807789" filename="_6699627933" tipname="%_tempFileName_6699627933%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>heightfield_bitmap_engraving</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_6699627933.jpg" height="800" width="600" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_6699627933.jpg" height="129" width="96" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="9_1391934807790" filename="_9576445225" tipname="%_tempFileName_9576445225%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>check_gages</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_9576445225.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_9576445225.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="10_1391934807792" filename="_4287974716" tipname="%_tempFileName_4287974716%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>Installation_Tool-1</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_4287974716.jpg" height="450" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_4287974716.jpg" height="72" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="11_1391934807793" filename="_5917638347" tipname="%_tempFileName_5917638347%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>Installation_Tool-2</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_5917638347.jpg" height="460" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_5917638347.jpg" height="74" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="12_1391934807794" filename="_9335015328" tipname="%_tempFileName_9335015328%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>naval_bronze_facing</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_9335015328.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_9335015328.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="13_1391934807796" filename="_8837083230" tipname="%_tempFileName_8837083230%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>naval_bronze_engraving</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_8837083230.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_8837083230.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="14_1391934807797" filename="_5219424783" tipname="%_tempFileName_5219424783%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>naval_bronze_memorial_plaque</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_5219424783.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_5219424783.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="15_1391934807798" filename="_6260457485" tipname="%_tempFileName_6260457485%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>Main_Cargo_Door_Latch-1</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_6260457485.jpg" height="542" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_6260457485.jpg" height="87" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="16_1391934807800" filename="_4664338059" tipname="%_tempFileName_4664338059%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>Main_Cargo_Door_Latch-2</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_4664338059.jpg" height="597" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_4664338059.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="17_1391934807801" filename="_5479868188" tipname="%_tempFileName_5479868188%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>Main_Cargo_Door_Latch-3</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_5479868188.jpg" height="625" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_5479868188.jpg" height="100" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="18_1391934807803" filename="_0723727032" tipname="%_tempFileName_0723727032%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>Main_Cargo_Door_Latch-4</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_0723727032.jpg" height="579" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_0723727032.jpg" height="93" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="19_1391934807804" filename="_6401305623" tipname="%_tempFileName_6401305623%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>Latch_Alignment_Tool-1</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_6401305623.jpg" height="450" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_6401305623.jpg" height="72" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="20_1391934807805" filename="_4304636647" tipname="%_tempFileName_4304636647%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>Latch_Alignment_Tool-2</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_4304636647.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_4304636647.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="21_1391934807807" filename="_3937887320" tipname="%_tempFileName_3937887320%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>Lamp_Mount-1</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_3937887320.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_3937887320.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="22_1391934807808" filename="_8857964291" tipname="%_tempFileName_8857964291%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>Lamp_Mount-2</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_8857964291.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_8857964291.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="23_1391934807809" filename="_7608815860" tipname="%_tempFileName_7608815860%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>lamp_mount-3</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_7608815860.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_7608815860.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="24_1391934807811" filename="_5761321131" tipname="%_tempFileName_5761321131%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>lens_mount-1</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_5761321131.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_5761321131.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="25_1391934807812" filename="_2721154557" tipname="%_tempFileName_2721154557%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>lens_mount-2</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_2721154557.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_2721154557.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="26_1391934807813" filename="_3502712441" tipname="%_tempFileName_3502712441%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>lens_mount-3</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_3502712441.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_3502712441.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="27_1391934807815" filename="_4019943428" tipname="%_tempFileName_4019943428%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>lens_mount-4</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_4019943428.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_4019943428.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="28_1391934807816" filename="_6380696919" tipname="%_tempFileName_6380696919%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>optics_mount-2</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_6380696919.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_6380696919.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="29_1391934807817" filename="_9623016503" tipname="%_tempFileName_9623016503%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>optics_mount-3</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_9623016503.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_9623016503.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="30_1391934807819" filename="_3861466158" tipname="%_tempFileName_3861466158%">
+<text>
+<title></title>
+<description>
+</description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>optics_rail-1</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_3861466158.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_3861466158.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="31_1391934807820" filename="_4222440748" tipname="%_tempFileName_4222440748%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>optics_rail-2</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_4222440748.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_4222440748.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="32_1391934807822" filename="_7847827776" tipname="%_tempFileName_7847827776%">
+<text>
+<title></title>
+<description>
+</description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>optics_mount_with_6axis_adjustment</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_7847827776.jpg" height="530" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_7847827776.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="33_1391934807823" filename="_8062615314" tipname="%_tempFileName_8062615314%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>prism_mount</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_8062615314.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_8062615314.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="34_1391934807824" filename="_7771938245" tipname="%_tempFileName_7771938245%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>proprietary_2axis_cnc-1</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_7771938245.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_7771938245.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="35_1391934807826" filename="_0971368977" tipname="%_tempFileName_0971368977%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>proprietary_2axis_cnc-2</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_0971368977.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_0971368977.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="36_1391934807827" filename="_1174909572" tipname="%_tempFileName_1174909572%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>spindle_drive_collet_assembly</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_1174909572.jpg" height="596" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_1174909572.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="37_1391934807828" filename="_1699275589" tipname="%_tempFileName_1699275589%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>pad_printing_nest</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_1699275589.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_1699275589.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="38_1391934807830" filename="_0133843656" tipname="%_tempFileName_0133843656%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>zune_laser_engraving_fixture</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_0133843656.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_0133843656.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="39_1391934807831" filename="_6147412510" tipname="%_tempFileName_6147412510%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>winglet-1</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_6147412510.jpg" height="600" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_6147412510.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="40_1391934807832" filename="_5314804236" tipname="%_tempFileName_5314804236%">
+<text>
+<title></title>
+<description>
+</description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>Winglet-2</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_5314804236.jpg" height="717" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_5314804236.jpg" height="115" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="41_1391934807834" filename="_3472008458" tipname="%_tempFileName_3472008458%">
+<text>
+<title></title>
+<description>
+</description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>Winglet-3</displayname>
+<displaywidth>1124</displaywidth>
+<rendition path="content/bin/images/large/_3472008458.jpg" height="437" width="800" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_3472008458.jpg" height="70" width="129" size="thumb"></rendition>
+</img>
+</samples>
+<siteParams>
+<firstImage index="1"></firstImage>
+<lastImage index="42"></lastImage>
+<mode value="all"></mode>
+</siteParams>
+</photoCollection>
